@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://www.0b00000011.com/2018/05/17/Mathematical-Notation-4/</loc>
+    <lastmod>2018-05-24T03:58:57.265Z</lastmod>
+    <data>
+        <display>
+        <title>Mathematical-Notation-4</title>
+        <pubTime>2018-05-17T08:17:23.000Z</pubTime>
+        
+        <tag>symbol</tag>
+         
+         
+           
+             
+              <breadCrumb title="mathematics" url="https://www.0b00000011.com/categories/mathematics/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.0b00000011.com/2018/05/17/Mathematical-Notation-3/</loc>
     <lastmod>2018-05-24T03:35:34.666Z</lastmod>
     <data>
@@ -44,26 +64,6 @@
 
     
   <url>
-    <loc>https://www.0b00000011.com/2018/05/17/Mathematical-Notation-4/</loc>
-    <lastmod>2018-05-22T14:01:29.597Z</lastmod>
-    <data>
-        <display>
-        <title>Mathematical-Notation-4</title>
-        <pubTime>2018-05-17T08:17:23.000Z</pubTime>
-        
-        <tag>symbol</tag>
-         
-         
-           
-             
-              <breadCrumb title="mathematics" url="https://www.0b00000011.com/categories/mathematics/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://www.0b00000011.com/2018/05/17/Mathematical-Notation-1/</loc>
     <lastmod>2018-05-22T13:59:57.148Z</lastmod>
     <data>
@@ -88,28 +88,6 @@
     
     
   <url>
-    <loc>https://www.0b00000011.com/2018/04/30/Professional-Dictionary-for-CFA-A/</loc>
-    <lastmod>2018-05-16T09:48:39.466Z</lastmod>
-    <data>
-        <display>
-        <title>Professional Dictionary for CFA A</title>
-        <pubTime>2018-04-30T12:43:01.000Z</pubTime>
-        
-        <tag>cfa</tag>
-         
-        <tag>dictionary</tag>
-         
-         
-           
-             
-              <breadCrumb title="CFA" url="https://www.0b00000011.com/categories/CFA/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://www.0b00000011.com/2018/04/30/Clojure-Environment-configuration-file/</loc>
     <lastmod>2018-05-16T09:48:39.466Z</lastmod>
     <data>
@@ -125,6 +103,28 @@
            
              
               <breadCrumb title="PROGRAMMING" url="https://www.0b00000011.com/categories/PROGRAMMING/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.0b00000011.com/2018/04/30/Professional-Dictionary-for-CFA-A/</loc>
+    <lastmod>2018-05-16T09:48:39.466Z</lastmod>
+    <data>
+        <display>
+        <title>Professional Dictionary for CFA A</title>
+        <pubTime>2018-04-30T12:43:01.000Z</pubTime>
+        
+        <tag>cfa</tag>
+         
+        <tag>dictionary</tag>
+         
+         
+           
+             
+              <breadCrumb title="CFA" url="https://www.0b00000011.com/categories/CFA/"/>
           
         </display>
     </data>
